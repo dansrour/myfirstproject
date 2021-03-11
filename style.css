@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+}
+.student-owner {
+  color: red;
+  border: solid 1px black;
+}
+
+.student-contributor {
+}
